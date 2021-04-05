@@ -35,4 +35,17 @@ python segment_plane.py
 ```
 
 ## Outputs
+### For q1:
+Black obstacles are outside drone's field of view
 
+Red obstacles are the ones drone has seen already
+![q1 output](https://github.com/ShreyanshDarshan/Vecros_assignment/blob/main/q1_output.gif)
+
+
+### For q2:
+Green Plane is the Largest Plane
+
+Red points are the points not lying on the largest plane
+
+Surface area gets printed on the terminal when you run the program
+![q2 output](https://github.com/ShreyanshDarshan/Vecros_assignment/blob/main/q2_output.png)

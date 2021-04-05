@@ -1,5 +1,4 @@
 # Vecros_assignment
-Assignment submission for Vecros Summer Internship
 
 ## Dependencies
 

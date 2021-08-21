@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-I have used Intel's Open3D library for pointcloud read/write and robot dynamics visualisation.
+I have used Intel ISL's Open3D library for pointcloud read/write and robot path planning visualisation.
 To install Open3D, run:
 ```
 pip install open3d
